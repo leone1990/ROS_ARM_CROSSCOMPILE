@@ -1,0 +1,25 @@
+authors: []
+blacklist: []
+build_space: build
+catkin_make_args: []
+cmake_args:
+- -DCMAKE_TOOLCHAIN_FILE=/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/rostoolchain.cmake
+- -DCMAKE_BUILD_TYPE=Release
+- -DCROSS_ROOT=/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE
+devel_layout: linked
+devel_space: devel
+extend_path: null
+extends: null
+install: false
+install_space: install
+isolate_install: false
+jobs_args: []
+licenses:
+- TODO
+log_space: logs
+maintainers: []
+make_args: []
+source_space: src
+use_env_cache: false
+use_internal_make_jobserver: true
+whitelist: []

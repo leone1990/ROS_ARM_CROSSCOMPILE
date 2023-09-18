@@ -1,0 +1,6 @@
+bond_core/smclib
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/smclib/cmake.lock /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/./cmake.lock
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/smclib/lib/python3/dist-packages/smclib/__init__.py /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/lib/python3/dist-packages/smclib/__init__.py
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/smclib/lib/pkgconfig/smclib.pc /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/lib/pkgconfig/smclib.pc
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/smclib/share/smclib/cmake/smclibConfig.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/smclib/cmake/smclibConfig.cmake
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/smclib/share/smclib/cmake/smclibConfig-version.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/smclib/cmake/smclibConfig-version.cmake

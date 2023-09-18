@@ -1,0 +1,5 @@
+ros/roslang
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/roslang/cmake.lock /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/./cmake.lock
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/roslang/lib/pkgconfig/roslang.pc /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/lib/pkgconfig/roslang.pc
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/roslang/share/roslang/cmake/roslangConfig.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/roslang/cmake/roslangConfig.cmake
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/roslang/share/roslang/cmake/roslangConfig-version.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/roslang/cmake/roslangConfig-version.cmake

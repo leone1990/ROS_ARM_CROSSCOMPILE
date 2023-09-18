@@ -1,0 +1,8 @@
+ros/rosboost_cfg
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosboost_cfg/cmake.lock /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/./cmake.lock
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosboost_cfg/lib/python3/dist-packages/rosboost_cfg/__init__.py /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/lib/python3/dist-packages/rosboost_cfg/__init__.py
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosboost_cfg/lib/pkgconfig/rosboost_cfg.pc /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/lib/pkgconfig/rosboost_cfg.pc
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosboost_cfg/bin/rosboost-cfg /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/bin/rosboost-cfg
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosboost_cfg/bin/cmake.lock /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/bin/cmake.lock
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosboost_cfg/share/rosboost_cfg/cmake/rosboost_cfgConfig.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/rosboost_cfg/cmake/rosboost_cfgConfig.cmake
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosboost_cfg/share/rosboost_cfg/cmake/rosboost_cfgConfig-version.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/rosboost_cfg/cmake/rosboost_cfgConfig-version.cmake

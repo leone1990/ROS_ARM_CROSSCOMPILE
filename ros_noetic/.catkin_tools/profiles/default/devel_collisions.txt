@@ -1,0 +1,2 @@
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/./cmake.lock 57
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/bin/cmake.lock 18

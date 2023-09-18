@@ -1,0 +1,8 @@
+ros/rosmake
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosmake/cmake.lock /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/./cmake.lock
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosmake/lib/python3/dist-packages/rosmake/__init__.py /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/lib/python3/dist-packages/rosmake/__init__.py
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosmake/lib/pkgconfig/rosmake.pc /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/lib/pkgconfig/rosmake.pc
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosmake/bin/cmake.lock /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/bin/cmake.lock
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosmake/bin/rosmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/bin/rosmake
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosmake/share/rosmake/cmake/rosmakeConfig-version.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/rosmake/cmake/rosmakeConfig-version.cmake
+/home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/.private/rosmake/share/rosmake/cmake/rosmakeConfig.cmake /home/leone/cross_compile/ROS_ARM_CROSSCOMPILE/ros_noetic/devel/share/rosmake/cmake/rosmakeConfig.cmake
