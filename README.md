@@ -34,7 +34,7 @@ https://github.com/abhiTronix/raspberry-pi-cross-compilers
   3.source install/setup.bash
   4.运行roscore
   
-roscore运行会报缺少python库，需要安装几个依赖：    
+roscore运行会报缺少python库，需要安装几个依赖： 
 
 rpi:
 
